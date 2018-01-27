@@ -5015,6 +5015,9 @@ namespace SplashScreen.Droid
 			// aapt resource value: 0x7f0b000a
 			public const int Widget_MediaRouter_MediaRouteButton = 2131427338;
 			
+			// aapt resource value: 0x7f0b018c
+			public const int splashscreen = 2131427724;
+			
 			static Style()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

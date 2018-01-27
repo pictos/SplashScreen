@@ -9,8 +9,7 @@
         <ActivityIndicator IsEnabled="{Binding IsBusy}" 
                        IsRunning="{Binding IsBusy}"
                        IsVisible="{Binding IsBusy}"
-                       HorizontalOptions="CenterAndExpand"
-                       VerticalOptions="CenterAndExpand"/>
+                       />
         <Label Text="{Binding Msg}" 
                HorizontalOptions="CenterAndExpand"
                VerticalOptions="CenterAndExpand"/>
